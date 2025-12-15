@@ -20,4 +20,4 @@ python interface.py
 ```
 
 ## Disclaimer
-This project was coded by me for **academic purposes only**. It is intended to demonstrate the mathematical principles of derivatives pricing and Monte Carlo methods. It is **not** intended for commercial replication or investment advice.
+This project was coded by Marc-Antoine Koffi for **academic purposes**. It is intended to demonstrate the mathematical principles of derivatives pricing and Monte Carlo methods. It is **not** intended for replication.
