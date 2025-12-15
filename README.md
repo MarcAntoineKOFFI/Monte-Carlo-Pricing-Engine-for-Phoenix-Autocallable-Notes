@@ -1,7 +1,7 @@
 # Autocall Pricer
 
 ## Overview
-This project is a Monte Carlo pricing engine for Autocallable Notes (Phoenix structure) with a Down-and-In Knock-In barrier. It calculates the fair value of the financial product and its associated risk sensitivities (Greeks).
+This project is a Monte Carlo pricing engine for Autocallable Notes (Phoenix structure) with a Down-and-In barrier, on a single asset, assuming homoscedasticity and constant risk-free rate. It calculates the fair value of the financial product and its associated risk sensitivities (Greeks).
 
 ## How It Works
 The program uses a **Monte Carlo simulation** to price the option:
